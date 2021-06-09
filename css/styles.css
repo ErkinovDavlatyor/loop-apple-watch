@@ -75,13 +75,7 @@ body{
     font-size: 14px;
     text-transform: uppercase;
 }
-.header-hr{
-    width:auto;
-    height:1px;
-    background-color: gray;
-    margin-top: -55px;
-    margin-bottom: 30px;
-}
+
 /* ----HEADER SECTION END---- */
 
 /* ----MAIN-SECTION---- */
